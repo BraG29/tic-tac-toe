@@ -1,1 +1,1 @@
-An a individual simple project made with Java and Swing for GUI. 
+An a simple project made with Java and Swing for GUI. 
